@@ -1,4 +1,5 @@
 // References:
+//  https://code.visualstudio.com/docs/cpp/config-mingw
 //  https://code.visualstudio.com/docs/cpp/config-mingw#_prerequisites
 //  https://code.visualstudio.com/docs/cpp/config-mingw#_create-hello-world
 
